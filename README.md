@@ -2,7 +2,7 @@
 <!-- <img src="" align="center" style="width: 100%" /> -->
 </div>  
   
-## <div align="center">I'm Deebhika</div>
+# <div align="center">I'm Deebhika</div>
 ### <div align="center">Student at IIT Madras | Data Fanatic | Programming enthusiast | |Frontend Developer |</div>  
   
 
