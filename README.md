@@ -2,8 +2,8 @@
 <!-- <img src="" align="center" style="width: 100%" /> -->
 </div>  
   
-
-### <div align="center">I'm Deebhika, Student at IIT Madras | Data Fanatic | Programming enthusiast | |Frontend Developer |</div>  
+## <div align="center">I'm Deebhika</div>
+### <div align="center">Student at IIT Madras | Data Fanatic | Programming enthusiast | |Frontend Developer |</div>  
   
 
 - 🔭 I’m currently working on Data Analytics  
@@ -22,7 +22,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -34,9 +34,10 @@
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td>
 
 
+<td valign="top" width="100%">
 
 ### Backend  
 <div align="center">  
@@ -46,11 +47,11 @@
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td>
 
 
 
-</td></tr></table>  
+</tr></table>  
 
 <br/>  
 
